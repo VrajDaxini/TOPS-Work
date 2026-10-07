@@ -1,0 +1,9 @@
+Where
+
+- It applies conditions to individual rows in the table.
+- Example: Show only orders greater than ₹300 (filters rows first).
+
+Having
+
+- It applies conditions to aggregated results (like SUM, AVG, COUNT).
+- Example: Show payment methods whose average order amount is greater than ₹300.
